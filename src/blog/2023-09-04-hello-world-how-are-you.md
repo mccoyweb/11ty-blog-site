@@ -1,11 +1,10 @@
 ---
 title: Hello world how are you
-description: This is a short description
+description: This is a short description.This is a sentence.
 author: Erik
 date: '2023-09-04T20:31:32-04:00'
 tags:
   - post
-  - featured
 image: /assets/blog/370522801_6573226529431724_863549319838671288_n.jpg
 imageAlt: A bicycle fork leaning against a wall
 ---
